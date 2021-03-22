@@ -1,0 +1,6 @@
+C:\Users\olyalolya\source\repos\Kozhevnikov\Kozhevnikov\Debug\Kozhevnikov.vcxprojAssemblyReference.cache
+C:\Users\olyalolya\source\repos\Kozhevnikov\Kozhevnikov\Debug\Kozhevnikov.FormMain.resources
+C:\Users\olyalolya\source\repos\Kozhevnikov\Kozhevnikov\Debug\Kozhevnikov.vcxproj.GenerateResource.cache
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\Debug\Kozhevnikov.vcxprojAssemblyReference.cache
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\Debug\Kozhevnikov.FormMain.resources
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\Debug\Kozhevnikov.vcxproj.GenerateResource.cache

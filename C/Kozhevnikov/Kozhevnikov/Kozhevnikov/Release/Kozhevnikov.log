@@ -1,0 +1,16 @@
+﻿  FormMain.cpp
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(211,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(214,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(220,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(232,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(234,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(260,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(266,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(344,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(344,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(344,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(346,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(346,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\FormMain.h(346,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  FormMain.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kozhevnikov.vcxproj -> C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.exe

@@ -1,0 +1,6 @@
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.FormMain.resources
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.vcxproj.GenerateResource.cache
+C:\Users\nikpa\Downloads\Kozhevnikov\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.vcxprojAssemblyReference.cache
+C:\Users\nikpa\Downloads\Kozhevnikov_calculator\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.vcxprojAssemblyReference.cache
+C:\Users\nikpa\Downloads\Kozhevnikov_calculator\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.FormMain.resources
+C:\Users\nikpa\Downloads\Kozhevnikov_calculator\Kozhevnikov\Kozhevnikov\Release\Kozhevnikov.vcxproj.GenerateResource.cache
